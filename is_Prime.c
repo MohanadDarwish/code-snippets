@@ -29,7 +29,7 @@ int main()
     }
     else
     {
-    while ((i * i )<= n)
+    while ((i * i )<= n)    //6n+1 6n-1
         {
         if ((n % i) == 0)
         {
