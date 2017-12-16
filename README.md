@@ -1,2 +1,2 @@
 # code-snippets
-random code snippets satisfying random functionalities
+random code snippets implementing random functionalities
